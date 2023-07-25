@@ -8,7 +8,7 @@ from transformers import pipeline
 
 #sentiment = pipeline("/content/drive/MyDrive/Colab Notebooks/Twitter_roBERTa_base_for_Sentiment_Analysis.ipynb")
 
-sentiment = pipeline("sentiment-analysis",model ="Ausbel/Gradio-vaccine-sentimental-analysis-APP2")
+sentiment = pipeline("sentiment-analysis",model ="Ausbel/Vaccine-tweet-sentiments-analysis-model-2")
 def get_sentiment(iput_text):
     return sentiment(input_text)
 
