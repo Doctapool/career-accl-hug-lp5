@@ -1,7 +1,5 @@
 📚 SUMMARY TABLE 📚
    =================
-
-
 |  | Project's Name | Deployment Link   | Article Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -Sentiment-Analysis            |  (https://huggingface.co/spaces/Ausbel/Gradio-vaccine-sentimental-analysis-APP2)            | ()       |
@@ -29,6 +27,7 @@ python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade p
 python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -r requirements.txt 
 
 ```
+
 The Two commands are of the same structure
 1.Activate the python environment
 2.Upgrade pip to it current version
