@@ -35,12 +35,12 @@ The Two commands are of the same structure
 
 
 
+---
 🚀 **Usage**
 -----------------
 To see how the app works, follow these instructions:
 1.After setting up enviroment,activatig the environment, and installing requirments,type
 ```bash
-
 
 
 👥 **Authors**
