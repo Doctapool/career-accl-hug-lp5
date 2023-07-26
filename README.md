@@ -2,9 +2,9 @@
    =================
 
 
-|  | Project's Name | Description    | GitHub's Link  |
+|  | Project's Name | Deployment Link   | Article Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sentiment-Analysis            |  ()            | ()       |
+| 1 |  -Sentiment-Analysis            |  (https://huggingface.co/spaces/Ausbel/Gradio-vaccine-sentimental-analysis-APP2)            | ()       |
 
 📚 **Description**
 =================
