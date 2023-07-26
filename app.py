@@ -21,25 +21,7 @@ def get_sentiment(input_text):
 
         return sentiment(input_text)
 
- 
 
-
-
-# #Function to predict sentiments from the input text using the model
-
-#     prediction = model.predict([text])[0]
-
-#     if label==-1:
-
-#        return "Negative"
-
-#     elif label== 0:
-
-#         return "Neutral"
-
-#     else:
-
-#         return "Positive"
 
  
 
