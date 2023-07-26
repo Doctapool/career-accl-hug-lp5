@@ -36,12 +36,12 @@ The Two commands are of the same structure
 
 
 
-
 🚀 **Usage**
 -----------------
 To see how the app works, follow these instructions:
 1.After setting up enviroment,activatig the environment, and installing requirments,type
 ```bash
+
 
 
 👥 **Authors**
@@ -50,6 +50,7 @@ To see how the app works, follow these instructions:
 This project is developed and maintained by:
 - Richard Fiagbeti
 Feel free to reach out to me with any questions or feedback!
+
 
 ✨ **Acknowledgments**
 =================
@@ -62,5 +63,4 @@ I would like to express my gratitude to The Azubi Africa team for their valuable
 For any questions, concerns, or suggestions regarding  this project, please contact us at 
 
 
----
 
