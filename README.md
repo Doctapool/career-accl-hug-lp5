@@ -6,7 +6,7 @@
 
 📚 **Description**
 =================
-
+ This project is to develop a machine learning model to assess if a twitter post that is related to vaccinations is positive, neutral, or negative.
 
 📖 **Table of Contents**
 =================
@@ -47,7 +47,7 @@ bash
 =================
 
 This project is developed and maintained by:
-- Richard Fiagbeti
+- Richard Fiagbeati
 Feel free to reach out to me with any questions or feedback!
 
 
@@ -59,7 +59,7 @@ I would like to express my gratitude to The Azubi Africa team for their valuable
 📞 **Contact**
 =================
 
-For any questions, concerns, or suggestions regarding  this project, please contact us at 
+For any questions, concerns, or suggestions regarding  this project, please contact me at doctapooool@gmail.com
 
 
 
