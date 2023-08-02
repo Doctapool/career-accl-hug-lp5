@@ -2,7 +2,7 @@
    =================
 |  | Project's Name | Deployment Link   | Article Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sentiment-Analysis            |  (https://huggingface.co/spaces/Ausbel/Gradio-vaccine-sentimental-analysis-APP2)            | ()       |
+| 1 |  -Sentiment-Analysis            |  (https://huggingface.co/spaces/Ausbel/Gradio-vaccine-sentimental-analysis-APP2)            | (https://medium.com/@richard.fiagbeati/implications-for-global-health-policy-and-vaccine-communication-from-the-machine-learning-assisted-272044f61925)       |
 
 📚 **Description**
 =================
